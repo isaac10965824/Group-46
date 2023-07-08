@@ -78,7 +78,7 @@ $ cd group46
 
 ```
 
-## :developer: Members
+## :innocent: Members
 
 The following people contributed to this project:
 
@@ -89,7 +89,7 @@ The following people contributed to this project:
 - ElvisKwabena => 10950536
 - Jayhubexp => 10964497
 
-## :developer: Conclusion
+## :triangular_flag_on_post: Conclusion
 
 ```
     The Quiz App is a comprehensive platform that allows users to test their understanding of various lessons and measure their intelligence through a scoring system. With features like lesson management, multiple question types, scoring calculation, and progress tracking, the app provides users with an engaging and rewarding experience. It promotes learning, competition, and self-improvement while offering an intuitive user interface and seamless user experience.
