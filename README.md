@@ -78,6 +78,20 @@ $ cd group46
 
 ```
 
+## :robot: Architecture Overview
+
+   Quizzler App follows a client-server architecture, with the client being a mobile or web application 
+   and the server handling the business logic and data storage.
+
+<h4>Client-Side Components</h4>
+
+1.  User Interface: Provides an intuitive and user-friendly interface for users to interact with the app, view lessons, and take quizzes.
+2.  Quiz Interface: Allows users to select lessons, answer questions, and submit their responses.
+3.  Scoring and Results: Displays the user's score, correct answers, and feedback upon quiz submission.
+4.  Progress Tracking: Shows the user's progress, previous quiz scores, and overall performance.
+
+
+
 ## :innocent: Members
 
 The following people contributed to this project:
@@ -110,15 +124,6 @@ Made with :heart: by <a href="https://github.com/Manuel2u" target="_blank">Manue
 
 <a href="#top">Back to top</a>
 
-Architecture Overview
-The Quiz App follows a client-server architecture, with the client being a mobile or web application and the server handling the business logic and data storage.
-
-Client-Side Components
-
-1.  User Interface: Provides an intuitive and user-friendly interface for users to interact with the app, view lessons, and take quizzes.
-2.  Quiz Interface: Allows users to select lessons, answer questions, and submit their responses.
-3.  Scoring and Results: Displays the user's score, correct answers, and feedback upon quiz submission.
-4.  Progress Tracking: Shows the user's progress, previous quiz scores, and overall performance.
 
 [//]: # "NB: In the previous commits we were working on a BMI calculator and we switched over to the Quiz App ."
 
