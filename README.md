@@ -103,6 +103,7 @@ The following people contributed to this project with their roles:
 - ElvisKwabena => 10950536( Documentation )
 - Jayhubexp => 10964497 (Back-End Developer)
 - GeekYbruce => 10980887
+- Peter-DevX => 10957160
 
 ## :triangular_flag_on_post: Conclusion
 
