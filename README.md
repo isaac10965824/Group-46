@@ -78,6 +78,24 @@ $ cd group46
 
 ```
 
+## :developer: Members
+
+The following people contributed to this project:
+
+- Manuel2u => 10945448
+- maryakuba => 10969526
+- sigismund011 => 10951879
+- Dorcas4l => 10945168
+- ElvisKwabena => 10950536
+- Jayhubexp => 10964497
+
+## :developer: Conclusion
+
+```
+    The Quiz App is a comprehensive platform that allows users to test their understanding of various lessons and measure their intelligence through a scoring system. With features like lesson management, multiple question types, scoring calculation, and progress tracking, the app provides users with an engaging and rewarding experience. It promotes learning, competition, and self-improvement while offering an intuitive user interface and seamless user experience.
+
+```
+
 ## :memo: License
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
@@ -98,18 +116,6 @@ Client-Side Components
 3.  Scoring and Results: Displays the user's score, correct answers, and feedback upon quiz submission.
 4.  Progress Tracking: Shows the user's progress, previous quiz scores, and overall performance.
 
-        Conclusion
-
-    The Quiz App is a comprehensive platform that allows users to test their understanding of various lessons and measure their intelligence through a scoring system. With features like lesson management, multiple question types, scoring calculation, and progress tracking, the app provides users with an engaging and rewarding experience. It promotes learning, competition, and self-improvement while offering an intuitive user interface and seamless user experience.
-
-PROJECT MEMBERS GITHUBS AND IDS
-maryakuba-10969526
-sigismund011-10951879
-Manuel2u-10945448
-Dorcas4l-10945168
-ElvisKwabena-10950536
-Jayhubexp-10964497
-
-NB: In the previous commits we were working on a BMI calculator and we switched over to the Quiz App .
+[//]: # "NB: In the previous commits we were working on a BMI calculator and we switched over to the Quiz App ."
 
 #
