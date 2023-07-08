@@ -104,6 +104,7 @@ The following people contributed to this project with their roles:
 - Jayhubexp => 10964497 (Back-End Developer)
 - GeekYbruce => 10980887(quality assurance engineer)
 - Peter-DevX => 109571609(quality assurance engineer)
+- isaac10965824 => 10965824 (Front- End Developer)
 
 ## :triangular_flag_on_post: Conclusion
 
