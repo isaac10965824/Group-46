@@ -102,6 +102,7 @@ The following people contributed to this project with their roles:
 - Dorcas4l => 10945168 (Front-End Developer
 - ElvisKwabena => 10950536( Documentation )
 - Jayhubexp => 10964497 (Back-End Developer)
+- GeekYbruce => 10980887
 
 ## :triangular_flag_on_post: Conclusion
 
