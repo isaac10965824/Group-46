@@ -88,18 +88,6 @@ Made with :heart: by <a href="https://github.com/Manuel2u" target="_blank">Manue
 
 <a href="#top">Back to top</a>
 
-#Quiz App Documentation
-
-Introduction
-The Quiz App is a software application that allows users to test their understanding of various lessons and measure their intelligence through a scoring system. It is designed to provide users with an interactive and engaging experience while assessing their knowledge.
-
-Key Features
-
-1. Question Types: The quiz app supports various question types, including multiple-choice and true/false,
-2. Scoring System: The app calculates and displays a score based on the user's responses to the quiz questions.
-3. Progress Tracking: Users can track their progress and see their performance history, including scores achieved in previous quizzes.
-4. Social Sharing: Users can share their quiz results on social media platforms to challenge their friends or celebrate their achievements.
-
 Architecture Overview
 The Quiz App follows a client-server architecture, with the client being a mobile or web application and the server handling the business logic and data storage.
 
