@@ -94,14 +94,14 @@ $ cd group46
 
 ## :innocent: Members
 
-The following people contributed to this project:
+The following people contributed to this project with their roles:
 
-- Manuel2u => 10945448
-- maryakuba => 10969526
-- sigismund011 => 10951879
-- Dorcas4l => 10945168
-- ElvisKwabena => 10950536
-- Jayhubexp => 10964497
+- Manuel2u => 10945448 ( Full Stack Developer
+- maryakuba => 10969526 (UI/IX Designer)
+- sigismund011 => 10951879 (Front-End Developer
+- Dorcas4l => 10945168 (Front-End Developer
+- ElvisKwabena => 10950536( Documentation )
+- Jayhubexp => 10964497 (Back-End Developer)
 
 ## :triangular_flag_on_post: Conclusion
 
