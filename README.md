@@ -29,5 +29,7 @@ Manuel2u-10945448
 Dorcas4l-10945168
 ElvisKwabena-10950536
 Jayhubexp-10964497
+
+NB: In the previous commits we were working on a BMI calculator and we switched over to the Quiz App .
 #
 
