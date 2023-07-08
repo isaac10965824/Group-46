@@ -46,7 +46,7 @@
 
 ## :dart: About
 
-Quizzler is a software application that allows users to test their understanding of various lessons and measure their intelligence through a scoring system. It is designed to provide users with an interactive and engaging experience while assessing their knowledge.
+Quizzler is an educational software application that allows users to test their understanding of various lessons and measure their intelligence through a scoring system. It is designed to provide users with an interactive and engaging experience while assessing their knowledge.
 
 ## :sparkles: Features
 
