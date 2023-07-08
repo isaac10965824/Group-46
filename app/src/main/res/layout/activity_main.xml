@@ -1,131 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
-    android:padding="20dp"
+    android:background="@color/black"
+    android:padding="30dp"
     tools:context=".MainActivity">
 
-
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textAlignment="center"
-        android:textStyle="bold"
-        android:layout_gravity="center"
-        android:text="Create Account"
-        />
+        android:id="@+id/total_question"
+        android:text="Total Questions"
+        android:layout_centerHorizontal="true"
+        android:textSize="20dp"/>
+
 
     <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textAlignment="center"
-        android:layout_gravity="center"
-        android:text="Provide your details to complete"
-        android:textColor="@color/gray"
-        />
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textAlignment="center"
-        android:layout_gravity="center"
-        android:text="creating account"
-        android:textColor="@color/gray"
-        android:layout_marginBottom="30dp"
-        />
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textStyle="bold"
-        android:layout_marginBottom="10dp"
-
-        android:text="Fullname"/>
-z
-    <EditText
-        android:id="@+id/fullname"
         android:layout_width="match_parent"
-        android:hint="Enter your name"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="20dp"
-        android:background="@drawable/edittext_border"
-        android:padding="8dp" />
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:id="@+id/question"
         android:textStyle="bold"
-        android:layout_marginBottom="10dp"
-        android:text="email"/>
+        android:text="Question 1"
+        android:textColor="@color/white"
+        android:textSize="24dp"
+        android:layout_margin="35dp"
+        android:layout_above="@+id/choices_layout"/>
 
-    <EditText
-        android:id="@+id/email"
+        <LinearLayout
         android:layout_width="match_parent"
-        android:layout_marginBottom="20dp"
-        android:hint="example@gmail.com"
         android:layout_height="wrap_content"
-        android:background="@drawable/edittext_border"
-        android:padding="8dp" />
-    <TextView
-    android:layout_width="wrap_content"
-    android:layout_height="wrap_content"
-    android:textStyle="bold"
-    android:layout_marginBottom="10dp"
-    android:text="Password"/>
+            android:id="@+id/choices_layout"
+            android:layout_centerInParent="true"
+        android:orientation="vertical">
 
-    <EditText
-        android:id="@+id/password"
-        android:layout_width="match_parent"
-        android:layout_marginBottom="20dp"
-        android:hint="create a password"
-        android:layout_height="wrap_content"
-        android:background="@drawable/edittext_border"
-        android:padding="8dp" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/ans_A"
+                android:layout_margin="5dp"
+                android:backgroundTint="@color/cardview_light_background"
+                android:text="Ans A"
+                android:textColor="@color/black"
+                />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/ans_B"
+                android:layout_margin="5dp"
+                android:backgroundTint="@color/cardview_light_background"
+                android:text="Ans B"
+                android:textColor="@color/black"
+                />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/ans_C"
+                android:layout_margin="5dp"
+                android:backgroundTint="@color/cardview_light_background"
+                android:text="Ans C"
+                android:textColor="@color/black"
+                />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/ans_D"
+                android:layout_margin="5dp"
+                android:backgroundTint="@color/cardview_light_background"
+                android:text="Ans D"
+                android:textColor="@color/black"
+                />
+
+        </LinearLayout>
 
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Create Account"
-        android:backgroundTint="@color/primary"
+        android:id="@+id/submit_btn"
+        android:text="Submit"
+        android:layout_below="@id/choices_layout"
+        android:layout_margin="45dp"/>
 
-        />
-    <LinearLayout
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal">
-
-    <CheckBox
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-
-        />
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textColor="@color/gray"
-            android:layout_gravity="center"
-            android:text="send me tips and add me to your mailing list"
-            />
-</LinearLayout>
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textColor="@color/gray"
-        android:layout_gravity="center"
-        android:text="By creating an account, you accept our"
-
-        />
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textColor="@color/gray"
-        android:layout_gravity="center"
-        android:text="Terms and Policy"
-
-        />
-
-
-</LinearLayout>
+</RelativeLayout>

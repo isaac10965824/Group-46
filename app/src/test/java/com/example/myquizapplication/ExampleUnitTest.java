@@ -1,4 +1,4 @@
-package com.example.bmi_calculator;
+package com.example.myquizapplication;
 
 import org.junit.Test;
 
